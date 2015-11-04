@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap.brvy.me",
+  "version": "0.0.0",
+  "homepage": "https://github.com/AlfredDobradi/webapp-bootstrap",
+  "authors": [
+    "Alfred Dobradi <alfreddobradi@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.11.4"
+  }
+}
