@@ -15,7 +15,10 @@
                 <span>Angular Material + Laravel bootstrap</span>
             </h2>
             <span flex></span>
-            <md-button class="md-fab" href="https://github.com/AlfredDobradi/webapp-bootstrap">
+            <md-button aria-label="Project on Github" title="Project on Github" class="md-fab" href="https://github.com/AlfredDobradi/webapp-bootstrap">
+                <md-icon class="material-icons">stars</md-icon>
+            </md-button>
+            <md-button class="md-fab" aria-label="Follow me on Twitter" title="Follow me on Twitter" href="https://twitter.com/AlfredDobradi">
                 <md-icon class="material-icons">favorite</md-icon>
             </md-button>
         </div>
