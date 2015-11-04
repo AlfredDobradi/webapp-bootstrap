@@ -9,6 +9,7 @@ Laravel 5 + Angular + Angular Material
 * ```php artisan key:generate```
 * ```npm install```
 * ```bower install```
+* ```gulp```
 * Make something cool
 
 ## Demo
