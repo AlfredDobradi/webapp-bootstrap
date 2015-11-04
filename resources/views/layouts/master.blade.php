@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="{{ elixir('assets/css/app.css') }}">
 </head>
 <body layout="column" layout-fill>
-    <md-toolbar>
+    <md-toolbar ng-cloak>
         <div class="md-toolbar-tools">
             <h2>
                 <span>Angular Material + Laravel bootstrap</span>
