@@ -4,6 +4,7 @@ Laravel 5 + Angular + Angular Material + MongoDB
 ## Installation
 
 * Clone the repository
+* ```composer install```
 * ```cp .env.example .env```
 * ```php artisan key:generate```
 * ```npm install```
