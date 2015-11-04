@@ -7,3 +7,7 @@ Laravel 5 + Angular + Angular Material + MongoDB
 * Run ```npm install```
 * Run ```bower install```
 * Make something cool
+
+## Demo
+
+You can check a basic demo at http://bootstrap.brvy.me
